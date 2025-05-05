@@ -5,8 +5,8 @@
   padding: 0 18px;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
 
 .main {
@@ -39,7 +39,7 @@
 }
 
 .commentsContainer h2 {
-  margin: 14p 0x;
+  margin: 14px 0;
 }
 
 .button {
