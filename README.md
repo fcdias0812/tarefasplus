@@ -4,6 +4,8 @@
 [![Email](https://img.shields.io/badge/Email-fcdias0812%40gmail.com-red)](mailto:fcdias0812@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TarefasPlus-green)](https://github.com/fcdias0812/tarefasplus)
 
+🔗 _Link do Projeto:_ [https://tarefasplus-pi.vercel.app/](https://tarefasplus-pi.vercel.app/)
+
 Tarefas+ é uma aplicação web moderna para gerenciamento de tarefas, desenvolvida com Next.js, Firebase e NextAuth. Permite aos usuários criar, compartilhar e gerenciar suas tarefas de forma eficiente.
 
 ## 📸 Imagens do Projeto
