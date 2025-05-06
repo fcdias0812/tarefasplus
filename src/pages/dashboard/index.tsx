@@ -95,7 +95,7 @@ export default function Dashboard({ user }: DashboardProps) {
 
   async function handleShare(id: string) {
     await navigator.clipboard.writeText(
-      "https://tarefasplus-pi.vercel.app/task/${id}"
+      `https://tarefasplus-pi.vercel.app/task/${id}`
     );
 
     alert("URL copiada");
